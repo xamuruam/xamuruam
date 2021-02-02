@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "image": "product-1.jpeg",
+      "name": "VIHERNITE",
+      "price": 5100,
+      "article": "T1",
+      "available": true,
+      "category": "Stones"
+    },
+    {
+      "image": "product-2.jpeg",
+      "name": "PINKINITE",
+      "price": 3150,
+      "article": "T2",
+      "available": true,
+      "category": "Stones"
+    },
+    {
+      "image": "product-3.jpeg",
+      "name": "RAUTANITE",
+      "price": 4200,
+      "article": "T3",
+      "available": false,
+      "category": "Stones"
+    },
+    {
+      "image": "product-4.jpeg",
+      "name": "SININITE",
+      "price": 5300,
+      "article": "T4",
+      "available": true,
+      "category": "Stones"
+    },
+    {
+      "image": "product-5.jpeg",
+      "name": "SINIVIHERNITE",
+      "price": 6500,
+      "article": "T5",
+      "available": false,
+      "category": "Stones"
+    },
+    {
+      "image": "product-6.jpeg",
+      "name": "VAALEAVIHERNITE",
+      "price": 3900,
+      "article": "T6",
+      "available": true,
+      "category": "Stones"
+    },
+    {
+      "image": "product-7.jpeg",
+      "name": "ORANGONITE",
+      "price": 7000,
+      "article": "T7",
+      "available": true,
+      "category": "Stones"
+    },
+    {
+      "image": "product-8.jpeg",
+      "name": "MUSTANITE",
+      "price": 5740,
+      "article": "T8",
+      "available": true,
+      "category": "Stones"
+    },
+    {
+      "image": "product-9.jpeg",
+      "name": "AURINGONITE",
+      "price": 4890,
+      "article": "T9",
+      "available": true,
+      "category": "Stones"
+    }
+  ]
+}
